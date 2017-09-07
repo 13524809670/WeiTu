@@ -13,20 +13,20 @@ p{text-align: center;color:#666;}
 
 .txtColor{width:60%;}
 
-.text-a{width: 90%;margin-top:12%;}
+.text-a{width: 90%;margin-top:10%;}
 
 .border{margin:3% auto;width: 80%;}
 
 .text{
 	width: 40%;
-	margin:8% auto 5%;
+	margin:8% auto 0;
 }
 p.line-h{line-height: 2;}
 
 
 .btn{
 	width: 100%;
-	margin-top:10%;
+	margin-top:12%;
 	display: -webkit-flex;
 	justify-content: space-around;
 	-webkit-justify-content: space-around;
