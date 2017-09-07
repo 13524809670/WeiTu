@@ -67,6 +67,7 @@ header .head{
 #form ul #order{
 	width: 50%;
 	height: 0.24rem;
+	line-height:0.24rem;
 	border: 1px solid #fff;
 	border-radius: 0.05rem;
 	vertical-align:middle;
@@ -80,7 +81,7 @@ header .head{
 	background-size: 100%;
 	position: absolute;
 	right:0.05rem;
-	top: -0.04rem;
+	
 }
 
 #form ul #code{
