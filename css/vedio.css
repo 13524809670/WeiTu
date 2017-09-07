@@ -1,0 +1,37 @@
+body{
+	width: 100%;
+	background: url(../img/bgImg.jpg);
+	padding-right: .1rem;
+	padding-left: .1rem;
+	background-size: cover;
+}
+
+.header{
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	padding-top: .05rem;
+}
+.header h1{
+	font-size: .2rem;
+	color:#fff;
+	font-weight: 500;
+	line-height: 2.5;
+}
+
+.vediobox{
+	position: relative;
+	width: 100%;
+	margin: 5% auto 10%;
+	overflow: hidden;
+}
+
+ul{
+	width: 100%;
+	color:#fff;
+	padding: 0 5%;
+}
+ul li{
+	line-height: 2;
+	font-size: .12rem;
+}
