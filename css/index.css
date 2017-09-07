@@ -10,14 +10,16 @@ img{margin:0 auto;}
 p{text-align: center;color:#666;}
 
 .logo{width: 38%;}
-.txtColor{
-	width:60%;
-}
-.text-a{width: 90%;margin-top:15%;}
+
+.txtColor{width:60%;}
+
+.text-a{width: 90%;margin-top:12%;}
+
 .border{margin:3% auto;width: 80%;}
+
 .text{
 	width: 40%;
-	margin:10% auto 5%;
+	margin:8% auto 5%;
 }
 p.line-h{line-height: 2;}
 
